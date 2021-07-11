@@ -1675,3 +1675,6 @@ input, select, textarea {
 	  width: 60%;
 	  height: auto;
   }
+  ul {
+	  list-style: none;
+  }
